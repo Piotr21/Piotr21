@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Piotr21
 - 🧬 Passionately bridging design and technology | Experience as a UX Manager and UI Engineer | React Developer. AI-oriented | SAP® Fiori & UI5
-- 🍭 I'm interested in UI, UX
 - 🇩🇪 I love Munich 🥨 and 🇵🇱 Kolberg
 - 📫 How to reach me wybraniec.p@gmail.com
 
