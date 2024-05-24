@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Piotr21
-- 👀 I’m interested in IT and Football
-- 🌱 I’m currently learning Linux, Javascript, React,
+- 🧬 Passionately bridging design and technology | Experience as a UX Manager and UI Engineer | React Developer. AI-oriented | SAP® Fiori & UI5
 - 🍭 I'm interested in UI, UX
-- 🇩🇪 I love Munich and 🇵🇱 Kolberg
+- 🇩🇪 I love Munich 🥨 and 🇵🇱 Kolberg
 - 📫 How to reach me wybraniec.p@gmail.com
 
 <!---
