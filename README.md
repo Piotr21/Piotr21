@@ -1,4 +1,4 @@
-👋 Hi, I’m @Piotr21
+👋 Hi, I’m Piotr
 🧬 Passionately bridging design and technology | UX Engineer | React Developer. AI-oriented | SAP® Fiori & UI5
 🇩🇪 Munich 🥨 | 🇵🇱 Kolberg
 
